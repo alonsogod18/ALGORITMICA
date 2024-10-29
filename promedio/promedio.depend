@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728084862 source:c:\users\alons\onedrive\documentos\promedio\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
